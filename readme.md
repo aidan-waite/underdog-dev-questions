@@ -6,4 +6,4 @@ This repo contains some introductory programming questions. They are more suitab
 
 - Check out the [questions](questions.md)
 - Open a template folder corresponding to your language of choice
-  - For example, open the [js html file](js/wordplay/index.html) file. You can add your solutions to [wordplay-solutions.js](js/wordplay/wordplay-solutions.js)
+  - For example for js open the [html](js/wordplay/index.html) file and add your solutions to [wordplay-solutions.js](js/wordplay/wordplay-solutions.js)

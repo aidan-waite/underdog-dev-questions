@@ -7,6 +7,6 @@ Here's how this solution template works:
 
 ## Where is my answer?
 
-`wordplay-solutions.js` logs to the console, so you can open developer tools to see its output.
+`wordplay-solutions.js` logs to the console, so you can open developer tools to see its output. Here's how it looks in Chrome on a Mac:
 
 ![Chrome dev tools example showing console](chrome-dev-tools-example.png)
